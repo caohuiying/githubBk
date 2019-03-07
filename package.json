@@ -1,0 +1,13 @@
+{
+  "name": "xiaobai",
+  "version": "1.0.1",
+  "description": "firstVuepress",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "xiaobai",
+  "license": "ISC"
+}
