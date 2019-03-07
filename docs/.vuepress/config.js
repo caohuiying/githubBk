@@ -13,11 +13,61 @@ module.exports = {
     },
     themeConfig: {
         nav:[ // 导航栏配置
+            { text: '主页', link: '/' },
             {text: '基础库', link: '/web/' },
             {text: '小祖宗', link: '/algorithm/'},
             {text: '特等舱', link: 'https://github.com/caohuiying'}
         ],
-        sidebar: 'auto', // 侧边栏配置
+        sidebar: {
+            '/web/': [
+                {
+                    title: '工具类',
+                    collapsable: true,
+                    children: [
+                        '',
+                        'json-tree',
+                        'heightlight',
+                        'date-format',
+                        'util',
+                        'split-file-name',
+                        'array-move',
+                        'Markdown'
+                    ]
+                },
+                {
+                    title: 'VUE',
+                    collapsable: true,
+                    children: [
+                        'keep-alive',
+                        'axios',
+                        'vux-load-more'
+                    ]
+                },
+                {
+                    title: 'CANVAS',
+                    children: [
+                        'rain',
+                        'particle'
+                    ]
+                },
+                {
+                    title: 'JQuery',
+                    children: [
+                        'ztree',
+                        'fullCalendar'
+                    ]
+                }
+            ],
+            '/about/':[
+                {
+                    title: 'SunnyLi',
+                    collapsable: false,
+                    children: [
+                        ''
+                    ]
+                },
+            ]
+        }, // 侧边栏配置
         sidebarDepth: 2, // 侧边栏显示2级
         head: [ // 注入到当前页面的 HTML <head> 中的标签
             ['link', { rel: 'manifest', href: '/photo.jpg' }],
