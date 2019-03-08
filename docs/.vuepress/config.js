@@ -31,7 +31,7 @@ module.exports = {
                         'util',
                         'split-file-name',
                         'array-move',
-                        'Markdown'
+                        'markdown'
                     ]
                 },
                 {
