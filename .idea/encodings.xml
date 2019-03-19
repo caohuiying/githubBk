@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/docs/web/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docs/web/less.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/docs/web/markdown.md" charset="UTF-8" />
   </component>
 </project>
