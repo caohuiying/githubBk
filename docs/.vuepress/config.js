@@ -41,7 +41,8 @@ module.exports = {
                     children: [
                         'keep-alive',
                         'axios',
-                        'vux-load-more'
+                        'vux-load-more',
+                        'vue-cli3'
                     ]
                 },
                 {
