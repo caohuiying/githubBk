@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5a29ebc-62e8-44c3-8d65-63ed21593fc9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\githubBk\.idea\encodings.xml" afterPath="" />
+    <list default="true" id="7709d828-111c-43ee-b159-dda9e23f0e83" name="Default" comment="">
       <change type="DELETED" beforePath="D:\githubBk\.idea\jsLibraryMappings.xml" afterPath="" />
       <change type="DELETED" beforePath="D:\githubBk\.idea\libraries\githubBk_node_modules.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/githubBk.iml" afterPath="$PROJECT_DIR$/.idea/githubBk.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/web/vue-cli3.md" afterPath="$PROJECT_DIR$/docs/web/vue-cli3.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="githubBk.iws" />
@@ -68,7 +64,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,6 +116,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -131,10 +127,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5a29ebc-62e8-44c3-8d65-63ed21593fc9" name="Default" comment="" />
-      <created>1553132328099</created>
+      <changelist id="7709d828-111c-43ee-b159-dda9e23f0e83" name="Default" comment="" />
+      <created>1553132433057</created>
       <option name="number" value="Default" />
-      <updated>1553132328099</updated>
+      <updated>1553132433057</updated>
     </task>
     <servers />
   </component>
