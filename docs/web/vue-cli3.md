@@ -26,39 +26,28 @@ npm run build
 **二、安装流程**
 
 - 2.1.选择Manually select features
-```md
 ![vue安装](../images/v2.jpg)
-```
+
 - 2.2.选择项目需要的一些特性（此处我们选择需要Babel编译、使用Vue路由、Vue状态管理器、CSS预处理器、代码检测和格式化、以及单元测试，暂时不考虑端到端测试(E2E Testing)）
-```md
 ![vue安装](../images/v3.jpg)
-```
+
 - 2.3.选择CSS预处理器语言，此处选择LESS
-```md
 ![vue安装](../images/v4.jpg)
-```
+
 - 2.4.选择ESLint的代码规范，此处使用 Standard代码规范
-```md
 ![vue安装](../images/v5.jpg)
-```
+
 - 2.5.选择何时进行代码检测，此处选择在保存时进行检测
-```md
 ![vue安装](../images/v6.jpg)
-```
+
 - 2.6.选择单元测试解决方案，此处选择 Jest
-```md
 ![vue安装](../images/v7.jpg)
-```
+
 - 2.7.选择 Babel、PostCSS、ESLint等配置文件存放位置，此处选择单独保存在各自的配置文件中
-```md
 ![vue安装](../images/v8.jpg)
-```
+
 - 2.8.配置完成后等待Vue-cli完成初始化
-```md
 ![vue安装](../images/v9.jpg)
-```
 
 - 2.9.vue-cli初始化完成后，根据提示，进入到vue-test项目中，并启动项目
-```md
-![vue安装](../images/v10.jpg)
-```
+>>![vue安装](../images/v10.jpg)
