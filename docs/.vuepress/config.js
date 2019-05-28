@@ -2,8 +2,8 @@
  * Created by admin on 2019/3/1.
  */
 module.exports = {
-    title: '活祖宗',
-    description: '山高水远不如江湖再见',
+    title: '小白的博客',
+    description: '现在的现在不会等你预支将来的将来！',
     head: [ // 注入到当前页面的 HTML <head> 中的标签
         ['link', { rel: 'icon', href: '/logo.jpg' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
@@ -15,7 +15,7 @@ module.exports = {
         nav:[ // 导航栏配置
             { text: '主页', link: '/' },
             {text: '基础库', link: '/web/' },
-            {text: '小祖宗', link: '/algorithm/'},
+            {text: '小白', link: '/algorithm/'},
             {text: '特等舱', link: 'https://github.com/caohuiying'}
         ],
         sidebar: {
