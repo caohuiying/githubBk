@@ -15,7 +15,7 @@ module.exports = {
         nav:[ // 导航栏配置
             { text: '主页', link: '/' },
             {text: '基础库', link: '/web/' },
-            {text: '小白', link: '/algorithm/'},
+            {text: '小白', link: '/'},
             {text: '特等舱', link: 'https://github.com/caohuiying'}
         ],
         sidebar: {
