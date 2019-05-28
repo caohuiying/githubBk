@@ -1,10 +1,6 @@
 {
   "name": "xiaobai",
-<<<<<<< HEAD
   "version": "1.1.2",
-=======
-  "version": "1.1.0",
->>>>>>> fb315a4001f841b6fa7e384f7b83092ae8b21330
   "description": "firstVuepress",
   "main": "index.js",
   "scripts": {
