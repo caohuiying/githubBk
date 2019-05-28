@@ -3,7 +3,7 @@
  */
 module.exports = {
     title: '小白的博客',
-    description: '现在的现在不会等你预支将来的将来！',
+    description: '现在的现在不会等你预支将来的将来',
     head: [ // 注入到当前页面的 HTML <head> 中的标签
         ['link', { rel: 'icon', href: '/logo.jpg' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
